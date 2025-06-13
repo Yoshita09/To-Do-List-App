@@ -55,11 +55,14 @@ cd To-Do-List-App
 ---
 
 ## 📁 Project Structure
+```
 To-Do-List-App/
-├── index.html # Main HTML file
-├── style.css # CSS styles
-├── script.js # JavaScript logic
-└── README.md # Project documentation
+├── index.html     # Main HTML file
+├── style.css      # CSS styles
+├── script.js      # JavaScript logic
+└── README.md      # Project documentation
+```
+
 
 ---
 
