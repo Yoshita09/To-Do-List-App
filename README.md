@@ -72,8 +72,6 @@ To-Do-List-App/
 
 💼 [LinkedIn](https://www.linkedin.com/in/yoshita-singhal-262212329/)
 
-
-> Feel free to **fork**, **star**, and **contribute** to this project.  
-Made with ❤️ by **Yoshita Singhal**
+---
 
 
