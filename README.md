@@ -66,12 +66,12 @@ To-Do-List-App/
 
 ---
 
-## 🙋‍♀️ Author
+## 👩‍💻 Made by
 
 **Yoshita Singhal**
 
-💼 [LinkedIn](https://www.linkedin.com/in/yoshita-singhal-262212329/)
-
+- GitHub: [@yoshita09](https://github.com/yoshita09)
+- LinkedIn: [Yoshita Singhal](https://linkedin.com/in/yoshita09)
 ---
 
 
